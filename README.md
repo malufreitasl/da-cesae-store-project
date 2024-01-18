@@ -1,5 +1,5 @@
 # da-cesae-store-project
 
-### Authors 
-Maria
-Raquel Teófilo
+### Authors
+Maria Luisa Lucena - malufreitasdelucena@gmail.com
+Raquel Teófilo - raquelmteo@gmail.com
