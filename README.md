@@ -13,7 +13,7 @@ This was a python mini project for a Data Analysis course. "Papelaria Chicotis" 
 Customers can register in the system, while only administrators have permission to register employees. User authentication for all actors.
 
 ### Purchases
-To make an item purchase, the customer must select the desired product and quantity. During checkout, the system displays a summary of the purchase, with the selected items and their costs. Customers can then proceed to payment. After confirming the purchase, the system generates a customer receipt, providing detailed information about the transaction.
+To make items purchases, the customer must select the desired products and quantitys. During checkout, the system displays a summary of the purchase, with the selected items and their costs. Customers can then proceed to payment. After confirming the purchase, the system generates a customer receipt, providing detailed information about the transaction.
 
 ### Inventory Management
 Employees are responsible for dealing with the stock. They can create new items and add existing products to the system.
