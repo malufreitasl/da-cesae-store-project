@@ -487,7 +487,7 @@ def total_stock(cursor_object):
         cursor_object.execute(query)
         total_stock_data = cursor_object.fetchone()
 
-        for i in total_stock_data:
+        for stock in total_stock_data:
             print(f"Total Estoque: {total_stock_data[0]}")
 
     except Exception as e:
